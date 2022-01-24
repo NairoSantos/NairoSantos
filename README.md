@@ -14,6 +14,7 @@
 <img align="center" alt="Nairo-nodejs" height="30" width="40" src=https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor style="max-width:100%.">
 <img align="center" alt="Nairo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width:100%;">
 <img align="center" alt="Nairo-java" height="30" width="40" src="https://icongr.am/devicon/java-original-wordmark.svg?size=128&color=currentColor" style="max-width:100%;">
+<img align="center" alt="Nairo-c#" height="30" width="40" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white;">
 
 <!---
 NairoSantos/NairoSantos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
